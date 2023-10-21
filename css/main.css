@@ -1,0 +1,634 @@
+/* Heqader CSS */
+.GreenlineLogo {
+
+    height: 75;
+    width: 300;
+    margin-left: 150px;
+}
+
+.navLinks {
+    text-decoration: none; 
+    font-size: xx-large; 
+    color: black;
+}
+
+#navBar {
+    margin-top: 10px; 
+    margin-right: 150px;
+}
+
+.currency {
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.cars {
+    margin-right: 10px; 
+    font-size: large;
+    color: blue;
+    border: hidden;
+}
+
+.headerClass {
+    margin-top: 20px;
+}
+
+.btnSignIn {
+    background-color: darkblue;
+    border-radius: 50px;
+    height: 40px;
+    width: 100px;
+    color: white;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    background-color: whitesblmoke; 
+    width: 80%; 
+    height: 200px; 
+    margin-left: 100px; 
+    z-index: -1; 
+    position: relative;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+
+  .cardEdit {
+    color: white; 
+    width: 300px; 
+    height: 200px; 
+    z-index: 0; 
+    margin-left: 50px;
+  }
+
+  .cardEdit1 {
+    position: relative; 
+    top: -200px; 
+    left: 200px;
+  }
+
+  .cardEdit2 {
+    position: relative; 
+    top: -400px; 
+    left: 450px;
+  }
+
+  .cardEdit3 {
+    position: relative; 
+    top: -600px; 
+    left: 650px;
+}
+
+.cardEdit4 {
+    position: relative; 
+    top: -175px; 
+    left: 150px;
+}
+
+.h5Card {
+    z-index: 1; 
+    color: black; 
+    margin-left: 70px; 
+    font-size: large;
+}
+
+.carEditImg {
+  z-index: -1; 
+  margin-left: 50px; 
+  margin-top: 30px; 
+  position: absolute; 
+  left: 50px; 
+  top: 0px;
+}
+
+.carEditImg100 {
+  height: 50px;
+  width: 60px;
+  position: relative; 
+  top: -250px; 
+  left: 400px;
+  border-radius: 20px;
+}
+
+.carEditImgBottom {
+  z-index: -1; 
+  height: 20px; 
+  width: 20px; 
+  position: absolute; 
+  left: 90px; 
+  top: 10px; 
+  margin-left: 20px; 
+  margin-top: 30px;
+}
+
+.container1 {
+  top: 70px; 
+  position: relative; 
+  right: 50px;
+}
+
+.carEditP {
+  color: black; 
+  font-size: x-small;
+}
+
+.carEditImgBottom4 {
+  left: 110px; 
+  top: 85px; 
+  margin-left: 0px;
+}
+
+.carEditImg4 {
+  top: 80px;
+}
+
+.container2 {
+  top: 70px; 
+  position: relative;
+}
+
+/* CSS for FORM */
+.formCss {
+  width: 500px; 
+  margin-left: 200px; 
+  margin-top: 100px;
+  float: left;
+  border: 4px solid rgb(1, 14, 1);
+  border-radius: 20px; 
+  height: 330px;
+  position: absolute;
+  z-index: 1;
+  background-color: white;
+}
+
+.business {
+  padding-top: 100px;
+  
+}
+
+.TrainClass {
+  z-index: 1;
+  margin-left: 100px;
+}
+
+.trainClassImg {
+  margin-left: 200px;  
+  z-index: -1;
+  opacity: 70%;
+}
+
+.TrainClassP1 {
+  position: relative;
+  bottom: 350px;
+  left: 650px;
+  color: white;  
+  position: relative; 
+  font-size: large;
+}
+
+.TrainClassP2 {
+  bottom: 350px;
+  left: 650px;
+  color: white;  
+  position: relative; 
+  font-size: large;
+}
+
+.TrainClassBtn {
+position: relative;
+left: 700px;
+bottom: 500px;
+border-radius: 20px;
+  font-size: large; 
+  background-color: green; 
+  color: white;
+} 
+
+.TrainClassImg2 {
+  z-index: 1; 
+  margin-left: 400px; 
+  margin-top: 95px;
+  top: -295px;
+  left: 185px;
+  position: relative;
+}
+
+/* CSS for MAIN */
+.mainDiv {
+  background-image: url('homepage/homepage/Rectangle 109.png'); 
+  width: 100%; 
+  height: 700px; 
+  position: relative;
+}
+
+.fieldSetClass {
+  border: hidden;
+}
+
+.formBtnClass {
+  background-color: blue;
+  border-radius: 20px;
+  width: 65%;
+  margin-left: 40px;
+  padding-left: 40px;
+  
+}
+
+.formBtnClass1 {
+  background-color: blue;
+  border-radius: 20px;
+  width: 90%;
+  margin-left: 30px;
+  height: 30px;
+  color: white;
+}
+
+.formBtnClass2 {
+  background-color: blue;
+  color: white;
+}
+
+.formBtnClass3 {
+  background-color: darkgreen;
+  border-radius: 20px;
+  width: 70px;
+  height: 30px;
+  color: white;
+}
+
+.ViewAllBtn {
+  margin-left: 660px;
+  border-radius: 20px;
+  background-color: blue;
+  width: 100px;
+  height: 30px;
+  border: hidden;
+  font-size: large;
+}
+
+.Section5P1 {
+  color: white;   
+  font-size: xxx-large; 
+  position: relative; 
+  top: -350px; 
+  left: 100px;
+}
+
+.Section5P2 {
+  color: white;   
+  font-size: xxx-large; 
+  position: relative; 
+  top: -400px; 
+  left: 100px;
+}
+
+.Section5P3 {
+  color: white;   
+  font-size: x-large; 
+  position: relative; 
+  top: -400px; 
+  left: 100px;
+}
+
+.getMoreDetails {
+  color: green; 
+  font-size: large; 
+  position: relative; 
+  top: -400px; 
+  left: 100px;
+  border: hidden;
+  border-radius: 20px;
+  width: 200px;
+  height: 50px;
+}
+
+.ctaButton {
+  background-color: blue;
+  border: hidden;
+  border-radius: 40px;
+  color: white;
+  margin-left: 50px;
+  height: 50px;
+  width: 200px;
+  font-size: large;
+}
+
+.fieldSetClass10 {
+  width: 200px;
+}
+
+.container3 {
+  top: 140px; 
+  position: relative; 
+  left: 10px;
+}
+
+.Section5Div {
+  width: 100%; 
+  height: 400px; 
+  margin-left: 50px;
+}
+
+.Section5Img1 {
+  position: absolute; 
+  z-index: -1; 
+  height: 300px; 
+  width: 1300px;
+}
+
+.Section5Img2 {
+  position: relative; 
+  z-index: 0; 
+  height: 300px; 
+  width: 1300px; 
+  left: 10px;
+}
+
+.Section5Img3 {
+  z-index: 0; 
+  margin-left: 900px; 
+  margin-top: 50px; 
+  position: relative; 
+  top: -550px; 
+  right: 150px;
+}
+
+.Section5Img4 {
+  z-index: 0; 
+  margin-left: 1000px; 
+  margin-top: -300px; 
+  position: relative; 
+  top: -500px; 
+  right: 200px;
+}
+
+.Section5Img5 {
+  z-index: 1; 
+  margin-left: 1000px; 
+  margin-top: -100px; 
+  position: relative; 
+  top: -700px;
+}
+
+/* Section 6 CSS */
+.Section6Div {
+  width: 100%; 
+  height: 400px; 
+  position: relative;
+}
+
+.Section6Div2 {
+  width: 400px; 
+  float: left;
+}
+
+.Section6DIv3 {
+  float: right; 
+  width: 50%; 
+  margin-right: 200px;
+}
+
+.Section6Li1 {
+  margin-bottom: 50px;
+  border:2px solid black;
+  border-radius: 20px;
+  padding: 5px;
+}
+
+.Section6Ol {
+  list-style-type: none;
+}
+
+.Section6Div4 {
+  
+  float: left;
+}
+
+.Section6Div5 {
+  position: relative;
+  top: 10px;
+  float: right;
+  font-size: xx-large;
+}
+
+.Section6Div6 {
+  position: relative;
+  top: -30px;
+  float: right;
+  font-size: xx-large;
+}
+
+/* Footer CSS */
+.FooterDiv1 {
+  background-color: rgb(0,168,143); 
+  width: 100%; 
+  height: 300px; 
+  position: relative; 
+  float: left; 
+  padding-left: 20px;
+}
+
+.FooterP1 {
+  color: white; 
+  margin-left: 20px;
+}
+
+.FooterDiv2 {
+  width: 30%;
+}
+
+.FooterImg1 {
+  margin-left: 50px;
+}
+
+.FooterDiv3 {
+  float: left;
+}
+
+.FooterDiv4 {
+  width: 25%; 
+  position: relative; 
+  top: -200px; 
+  left: 200px; 
+  margin-left: 175px;
+}
+
+.FooterDiv5 {
+  width: 30%; 
+  position: relative;  
+  bottom: 400px; 
+  margin-left: 200px; 
+  float: right;
+  padding-right: 100px;
+}
+
+.FooterDiv6 {
+  background-color: darkgreen; 
+  width: 100%; 
+  height: 50px; 
+  position: relative; 
+  float: left; 
+  padding-left: 20px;
+}
+
+.FooterP {
+  margin-left: 50px;
+  color: white;
+}
+
+.FooterP2 {
+  color: white;
+}
+
+.FooterUl1 {
+  list-style-type: none;
+}
+
+.FooterLi1 {
+  padding-bottom: 8px;
+  color: white;
+}
+
+.FooterLi2 {
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-bottom: 1px solid white;
+  color: white;
+  position: relative;
+  bottom: 70px;
+}
+
+/* CSS Lab Styling */
+p[target=_attSel] {
+  background-color: yellow;
+}
+
+[title~=Grid] { 
+  border: 5px solid yellow;
+}
+
+div p {
+  color: black;
+}
+
+div > h1 {
+  color: pink;
+} 
+
+p+div {
+  border: 1px solid yellow;
+}
+
+.p::first-letter {
+  font-weight: bold;
+}
+
+.BeforeCardFlex {
+  display: flex;
+}
+
+.cardFlex {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 27%;
+  margin-left: 30px;
+  height: 250px;
+  position: relative;
+  float: left;
+  left: 50px;
+}
+
+.cardFlex1 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 27%;
+  margin-left: 30px;
+  height: 250px;
+  position: relative;
+  left: 100px;
+  float: right;
+}
+
+.cardFlex2 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 27%;
+  margin-left: 30px;
+  height: 250px;
+  position: relative;
+  left: 150px;
+  float: right;
+}
+
+.cardFlex:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.containerFlex {
+  padding: 2px 16px;
+}
+
+.cardH4Flex {
+  position: absolute;
+  float: left;
+  
+}
+
+.cardP1Flex {
+  float: right;
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  position: relative;
+  right: 100px;
+}
+
+.cardP2Flex {
+  float: right;
+  position: relative;
+  left: 50px;
+}
+
+.cardFlexDiv {
+  padding: 10px;
+  background-color: white;
+  font-size: smaller;
+}
+
+.cardP3Flex {
+  position: relative;
+  bottom: 50px;
+  color: rgb(134, 215, 165);
+}
+
+.cardFlexDiv2 {
+  position: relative;
+  top: 50px;
+  
+}
+
+.cardImgFlex1 {
+  margin-left: 25px;
+}
+
+.DOtDot {
+  margin-left: 675px;
+}
+
+.Section6Div100 {
+  position: relative;
+  top: -20px;
+  
+  float: right;
+  font-size: x-large;
+}
+
